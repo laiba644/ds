@@ -42,6 +42,9 @@
     <ClCompile Include="ProofVerifier.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="faltu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CourseScheduling.h">

@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="CombinationModule.cpp" />
     <ClCompile Include="CourseScheduling.cpp" />
+    <ClCompile Include="faltu.cpp" />
     <ClCompile Include="FunctionsModule.cpp" />
     <ClCompile Include="InductionChecker.cpp" />
     <ClCompile Include="LogicEngine.cpp" />
