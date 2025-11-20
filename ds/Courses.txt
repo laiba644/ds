@@ -1,0 +1,55 @@
+NS1001,Applied Physics,3,Core,1
+MT1003,Calculus and Analytical Geometry,3,Core,1
+SS1012,Functional English,2,Core,1
+SL1012,Functional English - Lab,1,Core,1
+SS1013,Ideology and Constitution of Pakistan,2,Core,1
+CL1000,Introduction to Information and Communication Technology,1,Core,1
+CS1002,Programming Fundamentals,3,Core,1
+CL1002,Programming Fundamentals - Lab,1,Core,1
+SS2043,Civics and Community Engagement,2,Core,2
+EE1005,Digital Logic Design,3,Core,2
+EL1005,Digital Logic Design - Lab,1,Core,2
+SS1014,Expository Writing,2,Core,2
+SL1014,Expository Writing - Lab,1,Core,2
+SS1007,Islamic Studies/Ethics,2,Core,2
+MT1008,Multivariable Calculus,3,Core,2
+CS1004,Object Oriented Programming,3,Core,2
+CL1004,Object Oriented Programming - Lab,1,Core,2
+EE2003,Computer Organization and Assembly Language,3,Core,3
+EL2003,Computer Organization and Assembly Language - Lab,1,Core,3
+CS2001,Data Structures,3,Core,3
+CL2001,Data Structures - Lab,1,Core,3
+CS1005,Discrete Structures,3,Core,3
+SE1001,Introduction to Software Engineering,3,Core,3
+MT1004,Linear Algebra,3,Core,3
+SSX21,Social Science Elective - I,2,Elective,3
+CS2005,Database Systems,3,Core,4
+CL2005,Database Systems - Lab,1,Core,4
+CS2006,Operating Systems,3,Core,4
+CL2006,Operating Systems - Lab,1,Core,4
+SS1015,Pakistan Studies,2,Core,4
+MT2005,Probability and Statistics,3,Core,4
+SE2004,Software Design and Architecture,3,Core,4
+SE2001,Software Requirements Engineering,3,Core,4
+AI2002,Artificial Intelligence,3,Core,5
+AL2002,Artificial Intelligence - Lab,1,Core,5
+CS2009,Design and Analysis of Algorithms,3,Core,5
+SE3004,Software Construction and Development,2,Core,5
+SE3002,Software Quality Engineering,3,Core,5
+SS2012,Technical and Business Writing,3,Core,5
+CS3001,Computer Networks,3,Core,6
+CL3001,Computer Networks - Lab,1,Core,6
+CS2019,Computing Internship,1,Core,6
+SE4002,Fundamentals of Software Project Management,3,Core,6
+CS3006,Parallel and Distributed Computing,3,Core,6
+SEX01,SE Elective - I,3,Elective,6
+SEX02,SE Elective - II,3,Elective,6
+MG4011,Entrepreneurship,3,Core,7
+SE4091,Final Year Project – I,3,Core,7
+SEX03,SE Elective - III,3,Elective,7
+SEX04,SE Elective - IV,3,Elective,7
+SE4092,Final Year Project – II,3,Core,8
+CS3002,Information Security,3,Core,8
+CS4001,Professional Practices in IT,3,Core,8
+SEX05,SE Elective - V,3,Elective,8
+SEX06,SE Elective - VI,3,Elective,8
