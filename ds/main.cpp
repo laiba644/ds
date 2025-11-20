@@ -326,6 +326,6 @@ int main() {
 
     } while (choice != 9);
 
-    cout << "Goodbye!" << endl;//checkkk repoooooooo bahkja bxjsjx
+    cout << "Goodbye!" << endl;
     return 0;
 }
